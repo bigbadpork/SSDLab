@@ -1,0 +1,10 @@
+mysql_data/
+
+# OS/Editor
+.DS_Store
+.idea/
+
+# Logs/Binaries
+*.log
+*.pid
+*.sock
